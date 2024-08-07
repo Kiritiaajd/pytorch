@@ -1,0 +1,7 @@
+x: tensor([ 0.5247, -0.5063,  3.0023], requires_grad=True)
+y: tensor([2.5247, 1.4937, 5.0023], grad_fn=<AddBackward0>)
+z: tensor([12.7482,  4.4623, 50.0470], grad_fn=<MulBackward0>)
+vector: tensor([0.1000, 1.0000, 0.0010])
+x.grad: tensor([1.0099, 5.9748, 0.0200])
+
+Process finished with exit code 0

@@ -1,0 +1,13 @@
+Prediction before training : f(5) = 0.000
+epoch 1 : w = 1.200 , loss = 30.00000000
+epoch 2 : w = 1.680 , loss = 4.79999924
+epoch 3 : w = 1.872 , loss = 0.76800019
+epoch 4 : w = 1.949 , loss = 0.12288000
+epoch 5 : w = 1.980 , loss = 0.01966083
+epoch 6 : w = 1.992 , loss = 0.00314570
+epoch 7 : w = 1.997 , loss = 0.00050332
+epoch 8 : w = 1.999 , loss = 0.00008053
+epoch 9 : w = 1.999 , loss = 0.00001288
+epoch 10 : w = 2.000 , loss = 0.00000206
+
+Process finished with exit code 0
