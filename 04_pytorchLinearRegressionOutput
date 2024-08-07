@@ -1,0 +1,10 @@
+epoch: 10, loss = 4380.1230
+epoch: 20, loss = 3269.6079
+epoch: 30, loss = 2465.5957
+epoch: 40, loss = 1882.8960
+epoch: 50, loss = 1460.1915
+epoch: 60, loss = 1153.2832
+epoch: 70, loss = 930.2703
+epoch: 80, loss = 768.0995
+epoch: 90, loss = 650.0912
+epoch: 100, loss = 564.1656
