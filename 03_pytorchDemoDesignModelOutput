@@ -1,0 +1,15 @@
+4 1
+Prediction before training: f(5) = -1.934
+epoch 1: w = -0.103, loss = 41.15382385
+epoch 11: w = 1.374, loss = 1.23322773
+epoch 21: w = 1.620, loss = 0.19058004
+epoch 31: w = 1.667, loss = 0.15436870
+epoch 41: w = 1.683, loss = 0.14473373
+epoch 51: w = 1.693, loss = 0.13629259
+epoch 61: w = 1.703, loss = 0.12835927
+epoch 71: w = 1.711, loss = 0.12088804
+epoch 81: w = 1.720, loss = 0.11385177
+epoch 91: w = 1.728, loss = 0.10722499
+Prediction after training: f(5) = 9.455
+
+Process finished with exit code 0
